@@ -1,1 +1,0 @@
-# Adsremedy-Media-LLP-Assignment
