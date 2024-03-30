@@ -116,3 +116,15 @@ git push -u origin master
 git push -u origin main
 clear
 logout
+clear
+ls
+cat Dockerfile
+git init
+git add README.md
+clear
+git remote add origin https://github.com/haarry124/Adsremedy-Media-LLP.git
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/haarry124/Adsremedy-Media-LLP.git
+git push -u origin main
